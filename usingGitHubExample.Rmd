@@ -82,7 +82,8 @@ Insert some text here
 Group 3
 ===
 
-Insert some text here
+Hello World from Group 3 :)
+We're prepared to be data scientist:)
 
 ```{r}
 #Code blocks can go inside these quoted delimeters
